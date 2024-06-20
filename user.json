@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6673778d06a254ed4574d9a5"
+  },
+  "professionalName": "Francky Ntyam",
+  "nameLink": {
+    "firstName": "Francky",
+    "url": "https://franckyntyam.github.io/wdd230/"
+  },
+  "base64image": "https://avatars.githubusercontent.com/u/36902655?v=4",
+  "firstName": "Francky ",
+  "primaryDescription": "is a student at BYU-Idaho",
+  "workDescription1": "The future full-stack web developer and mobile application.",
+  "workDescription2": "Self-employment",
+  "linkTitleText":"See below",
+  "linkedInLink": {
+    "link": "https://www.linkedin.com/in/francky-ntyam-434465131/",
+    "text": "LinkedIn"
+  },
+  "githubLink": {
+    "link": "https://github.com/FranckyNtyam",
+    "text": "Github"
+  },
+  "contactText": "You can contact me at nty22001byui.edu"
+}]
